@@ -1,2 +1,3 @@
 # py
-This is my python programming codes. Which I have developed, while learning Python
+These are my practice python programming codes. Which I have solved, while learning Python
+

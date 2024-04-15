@@ -1,5 +1,5 @@
 def print_formatted(number):
-    ln = len(bin(n)[2:])
+    ln = len(bin(n)[2:]) #This is used to find the length of binary represntaion and use it to set the width.
     for i in range(1,n+1):
         oc = oct(i)[2:]
         
